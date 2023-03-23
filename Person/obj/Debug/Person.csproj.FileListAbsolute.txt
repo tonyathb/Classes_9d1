@@ -1,0 +1,8 @@
+C:\Users\tbele\source\repos\Classes-9d1\Person\bin\Debug\Person.exe.config
+C:\Users\tbele\source\repos\Classes-9d1\Person\bin\Debug\Person.exe
+C:\Users\tbele\source\repos\Classes-9d1\Person\bin\Debug\Person.pdb
+C:\Users\tbele\source\repos\Classes-9d1\Person\obj\Debug\Person.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Classes-9d1\Person\obj\Debug\Person.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbele\source\repos\Classes-9d1\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Classes-9d1\Person\obj\Debug\Person.exe
+C:\Users\tbele\source\repos\Classes-9d1\Person\obj\Debug\Person.pdb

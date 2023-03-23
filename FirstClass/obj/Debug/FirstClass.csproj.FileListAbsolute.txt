@@ -1,0 +1,8 @@
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\bin\Debug\FirstClass.exe.config
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\bin\Debug\FirstClass.exe
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\bin\Debug\FirstClass.pdb
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\obj\Debug\FirstClass.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\obj\Debug\FirstClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\obj\Debug\FirstClass.exe
+C:\Users\tbele\source\repos\Classes-9d1\FirstClass\obj\Debug\FirstClass.pdb
