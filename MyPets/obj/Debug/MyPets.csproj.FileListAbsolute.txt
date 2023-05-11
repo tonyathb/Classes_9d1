@@ -1,0 +1,12 @@
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\MyPets.exe.config
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\MyPets.exe
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\MyPets.pdb
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.exe
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.pdb
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\DogMeeting.exe
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\DogMeeting.pdb
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\bin\Debug\DogMeeting.exe.config
+C:\Users\tbele\source\repos\Classes-9d1\MyPets\obj\Debug\MyPets.csproj.CopyComplete

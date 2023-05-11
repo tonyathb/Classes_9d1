@@ -1,0 +1,8 @@
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\bin\Debug\DogMeeting.exe.config
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\bin\Debug\DogMeeting.exe
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\bin\Debug\DogMeeting.pdb
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\obj\Debug\DogMeeting.csproj.AssemblyReference.cache
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\obj\Debug\DogMeeting.csproj.SuggestedBindingRedirects.cache
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\obj\Debug\DogMeeting.csproj.CoreCompileInputs.cache
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\obj\Debug\DogMeeting.exe
+C:\Users\tbele\source\repos\Classes-9d1\DogMeeting\obj\Debug\DogMeeting.pdb
